@@ -1,3 +1,4 @@
+[Deprecated]
 # buildpacks-aria2
 
 Heroku Build-Pack for Aria2.
